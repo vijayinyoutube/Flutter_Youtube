@@ -3,7 +3,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/vijayinyoutube/Flutter_Youtube) [![vijaycreations](https://img.shields.io/website-up-vijaycreations-green-red/http/cv.lbesson.qc.to.svg)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [![Repo Status](https://img.shields.io/badge/Repo_Status-Active-<COLOR>.svg)](https://github.com/vijayinyoutube/Flutter_Youtube) [![Flutter](https://img.shields.io/badge/Built_using-Flutter-blue.svg)](https://github.com/vijayinyoutube/Flutter_Youtube)
 
 
-A collection of Sample Flutter Apps and Templates 
+A collection of Sample Flutter Apps and Templates. 
 
 Click the image to check out the development (Demo Video + Source Code)
 
